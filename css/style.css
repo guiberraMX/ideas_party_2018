@@ -123,7 +123,7 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .text-large { font-size: 15px !important; line-height: 22px !important; }
 .text-extra-large { font-size: 18px !important; line-height: 27px !important;  }
 .title-small{ font-size:20px !important; line-height:30px !important;}
-.title-medium{ font-size:24px !important; line-height:28px !important;}
+.title-medium{ font-size:64px !important; line-height:28px !important;}
 .title-large{ font-size:28px !important; line-height:34px !important;}
 .title-extra-large{ font-size:35px !important; line-height:37px !important;}
 .title-extra-large-2{ font-size:45px !important; line-height:45px !important;}
@@ -888,7 +888,7 @@ nav.sidebar-nav .container { vertical-align: top; padding:60px 40px }
 .slider-typography .separator-line-medium-thick { margin: 84px 0}
 
 /* slider typography - style 6 */
-.slider-typography .slider-typography-option6 span {font-size: 90px; line-height: 90px; letter-spacing: -2px; width: 80%; display: inline-block }
+.slider-typography .slider-typography-option6 span {font-size: 50px; line-height: 90px; letter-spacing: -2px; width: 80%; display: inline-block }
 .slider-typography .slider-typography-option6 p { padding: 4px 17px}
 .slider-typography .slider-typography-option6 p sup {font-size: 8px}
 
