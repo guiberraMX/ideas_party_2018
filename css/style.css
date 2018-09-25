@@ -756,6 +756,14 @@ section { padding: 130px 0; }
 .owl-small-slider .item {min-height: 430px}
 .owl-small-slider .container {min-height: 400px}
 
+
+.orange-is-the-new-buei{
+    color: #b248ee !important;
+}
+
+.otrotit{
+    color: #88d045 !important;
+}
 /* bottom pagination */
 .bottom-pagination .owl-pagination {position:inherit !important}
 
