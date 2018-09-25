@@ -123,8 +123,8 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .text-large { font-size: 15px !important; line-height: 22px !important; }
 .text-extra-large { font-size: 18px !important; line-height: 27px !important;  }
 .title-small{ font-size:20px !important; line-height:30px !important;}
-.title-medium{ font-size:62px !important; line-height:28px !important;}
-.title-large{ font-size:28px !important; line-height:34px !important;}
+.title-medium{ font-size:44px !important; line-height:47px !important;}
+.title-large{ font-size:24px !important; line-height:34px !important;}
 .title-extra-large{ font-size:35px !important; line-height:37px !important;}
 .title-extra-large-2{ font-size:45px !important; line-height:45px !important;}
 .title-extra-large-3{ font-size:50px !important; line-height:50px !important;}
@@ -147,6 +147,8 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .medium-gray-text{ color: #929292 !important}
 .light-gray-text{ color: #ababab !important}
 .light-gray-text2{ color: #c5c5c5 !important}
+.light-gray-text3{ color: #f1f2f3 !important}
+
 .deep-gray-text { color: #404040 !important; }
 .deep-light-gray-text { color: #878787 !important; }
 .gray-text {  color:#626262 !important}

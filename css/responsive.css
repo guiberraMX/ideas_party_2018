@@ -526,8 +526,8 @@
     .sm-text-large { font-size: 15px !important; line-height: 20px !important; }
     .sm-text-extra-large { font-size: 18px !important; line-height: 25px !important;  }
     .sm-title-small{ font-size:20px !important; line-height:27px !important;}
-    .sm-title-medium{ font-size:24px !important; line-height:28px !important;}
-    .sm-title-large{ font-size:28px !important; line-height:34px !important;}
+    .sm-title-medium{ font-size:64px !important; line-height:68px !important;}
+    .sm-title-large{ font-size:8px !important; line-height:34px !important;}
     .sm-title-extra-large{ font-size:35px !important; line-height:37px !important;}
     .sm-title-extra-large-2{ font-size:45px !important; line-height:45px !important;}
     .sm-title-extra-large-3{ font-size:50px !important; line-height:50px !important;}
